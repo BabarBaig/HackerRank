@@ -1,2 +1,2 @@
 # HackerRank
-Problems/Solutions from HackerRank
+Problems/Solutions from HackerRank in Python
